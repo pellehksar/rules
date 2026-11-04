@@ -93,4 +93,4 @@ DOMAIN,tdid.m.qq.com,REJECT
 DOMAIN-KEYWORD,cpc-service-square
 DOMAIN-SUFFIX,58iclick.com,REJECT
 DOMAIN-SUFFIX,volccdn.com,REJECT
-
+IP-CIDR,180.76.76.200/32,REJECT,no-resolve

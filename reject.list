@@ -90,4 +90,7 @@ DOMAIN-SUFFIX,66mobi.com,REJECT
 DOMAIN,sdk.e.qq.com,REJECT
 DOMAIN,sdkquic.e.qq.com,REJECT
 DOMAIN,tdid.m.qq.com,REJECT
+DOMAIN-KEYWORD,cpc-service-square
+DOMAIN-SUFFIX,58iclick.com,REJECT
+DOMAIN-SUFFIX,volccdn.com,REJECT
 

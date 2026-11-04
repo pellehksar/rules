@@ -16,3 +16,12 @@ DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-KEYWORD,adcdn
 DOMAIN-KEYWORD,report
 DOMAIN-SUFFIX,sdkreport.e.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN,pgdt.gtimg.cn
+DOMAIN,tangram.e.qq.com
+DOMAIN-KEYWORD,tmead
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN,galileotelemetry.tencent.com
+DOMAIN-KEYWORD,gdt

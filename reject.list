@@ -11,3 +11,7 @@ DOMAIN-SUFFIX,checktrustworthiness.com
 DOMAIN-SUFFIX,ios.bugly.qq.com
 DOMAIN-SUFFIX,aiapqjd5vqxx2o2u.nexusedgeio.com
 DOMAIN-SUFFIX,zz12.yirujs.com
+DOMAIN-SUFFIX,ad.tencentmusic.com
+DOMAIN-SUFFIX,report.tencentmusic.com
+DOMAIN-KEYWORD,adcdn
+DOMAIN-KEYWORD.report

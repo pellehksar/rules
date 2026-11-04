@@ -25,4 +25,10 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN,galileotelemetry.tencent.com
 DOMAIN-KEYWORD,gdt
-DOMAIN-SUFFIX,y.gtimg.cn
+DOMAIN,aegis.qq.com
+DOMAIN,rdelivery.qq.com
+DOMAIN,tmfmazu.m.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN,galileotelemetry.tencent.com
+DOMAIN,stat6.y.qq.com
+DOMAIN,monitor.music.qq.com

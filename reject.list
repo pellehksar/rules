@@ -32,7 +32,14 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN,galileotelemetry.tencent.com
 DOMAIN,stat6.y.qq.com
 DOMAIN,monitor.music.qq.com
-DOMAIN,http://182.254.116.116
-DOMAIN,http://180.163.210.142
-DOMAIN,http://106.55.88.125/
+IP-CIDR,182.254.116.116/32,REJECT,no-resolve
+IP-CIDR,101.226.144.238/32,REJECT,no-resolve
+IP-CIDR,101.226.142.110/32,REJECT,no-resolve
+IP-CIDR,101.226.142.111/32,REJECT,no-resolve
+IP-CIDR,180.163.210.142/32,REJECT,no-resolve
+IP-CIDR,106.55.88.125/32,REJECT,no-resolve
+IP-CIDR,14.116.235.38/32,REJECT,no-resolve
+IP-CIDR,14.116.241.68/32,REJECT,no-resolve
+IP-CIDR,113.96.19.166/32,REJECT,no-resolve
+
 

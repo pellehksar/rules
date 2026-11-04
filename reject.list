@@ -41,5 +41,10 @@ IP-CIDR,106.55.88.125/32,REJECT,no-resolve
 IP-CIDR,14.116.235.38/32,REJECT,no-resolve
 IP-CIDR,14.116.241.68/32,REJECT,no-resolve
 IP-CIDR,113.96.19.166/32,REJECT,no-resolve
+IP-CIDR,124.223.147.188/32,REJECT,no-resolve
+DOMAIN-SUFFIX,myapp.com,REJECT
+DOMAIN,mc.tencentmusic.com,REJECT
+DOMAIN,szmg.qq.com,REJECT
+DOMAIN,httpdns.kg.qq.com,REJECT
 
 

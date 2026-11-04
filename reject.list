@@ -46,5 +46,20 @@ DOMAIN-SUFFIX,myapp.com,REJECT
 DOMAIN,mc.tencentmusic.com,REJECT
 DOMAIN,szmg.qq.com,REJECT
 DOMAIN,httpdns.kg.qq.com,REJECT
+# ==================== 信通院與反詐監管接口 ====================
+DOMAIN,eps.caict.ac.cn,REJECT
+DOMAIN,fzj.caict.ac.cn,REJECT
+DOMAIN,api.fzj.caict.ac.cn,REJECT
+DOMAIN,verify.caict.ac.cn,REJECT
+DOMAIN-SUFFIX,gjfz.cn,REJECT
+DOMAIN-SUFFIX,gjfz.gov.cn,REJECT
+
+# ==================== 運營商終端管理 (DM) 遙測 ====================
+DOMAIN,dm.wo.com.cn,REJECT
+DOMAIN,dm.10086.cn,REJECT
+DOMAIN,mdm.10086.cn,REJECT
+DOMAIN,dm.ct10000.com,REJECT
+DOMAIN,device.ct10000.com,REJECT
+DOMAIN-SUFFIX,cmpassport.com,REJECT
 
 

@@ -96,7 +96,6 @@ IP-CIDR,180.76.76.200/32,REJECT,no-resolve
 DOMAIN,wup.imtt.qq.com,REJECT
 DOMAIN,gatherer.m.qq.com,REJECT
 DOMAIN-SUFFIX,imtt.qq.com,REJECT
-DOMAIN,yes-file.quark.cn,REJECT
 DOMAIN,hp-cms.quark.cn,REJECT
 DOMAIN,open-cms-api.quark.cn,REJECT
 DOMAIN,coral2.quark.cn,REJECT
@@ -110,3 +109,8 @@ DOMAIN,applog.uc.cn,REJECT
 DOMAIN,applog-perf.lc.quark.cn,REJECT
 DOMAIN,px.wpk.quark.cn,REJECT
 DOMAIN-SUFFIX,wpk.quark.cn,REJECT
+DOMAIN-KEYWORD,yes-file,REJECT
+DOMAIN,com-cms.quark.cn,REJECT
+DOMAIN-SUFFIX,shuqireader.com,REJECT
+DOMAIN-SUFFIX,u3.ucweb.com,REJECT
+DOMAIN-SUFFIX,alibaba-inc.com,REJECT

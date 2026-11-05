@@ -93,3 +93,7 @@ DOMAIN-KEYWORD,cpc-service-square
 DOMAIN-SUFFIX,58iclick.com,REJECT
 DOMAIN-SUFFIX,volccdn.com,REJECT
 IP-CIDR,180.76.76.200/32,REJECT,no-resolve
+DOMAIN,wup.imtt.qq.com,REJECT
+DOMAIN,gatherer.m.qq.com,REJECT
+DOMAIN-SUFFIX,imtt.qq.com,REJECT
+

@@ -116,4 +116,7 @@ DOMAIN-SUFFIX,u3.ucweb.com,REJECT
 DOMAIN-SUFFIX,alibaba-inc.com,REJECT
 DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,y.gtimg.cn
+DOMAIN-SUFFIX,httpdns.bilivideo.com
+IP-CIDR,119.84.174.96/32,no-resolve
+
 

@@ -118,5 +118,10 @@ DOMAIN-SUFFIX,volces.com
 DOMAIN-SUFFIX,y.gtimg.cn
 DOMAIN-SUFFIX,httpdns.bilivideo.com
 IP-CIDR,119.84.174.96/32,no-resolve
-
+IP-CIDR,171.43.226.2/32,no-resolve
+IP-CIDR,171.43.226.3/32,no-resolve
+IP-CIDR,171.43.132.14/32,no-resolve
+IP-CIDR,113.207.85.212/32,no-resolve
+IP-CIDR,203.119.204.80/32,no-resolve
+IP-CIDR,113.207.104.10/32,no-resolve
 

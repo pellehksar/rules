@@ -124,4 +124,5 @@ IP-CIDR,171.43.132.14/32,no-resolve
 IP-CIDR,113.207.85.212/32,no-resolve
 IP-CIDR,203.119.204.80/32,no-resolve
 IP-CIDR,113.207.104.10/32,no-resolve
-
+IP-CIDR,203.119.206.9/32,no-resolve
+DOMAIN-SUFFIX,hilo.bilibili.com

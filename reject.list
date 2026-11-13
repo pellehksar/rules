@@ -126,3 +126,5 @@ IP-CIDR,203.119.204.80/32,no-resolve
 IP-CIDR,113.207.104.10/32,no-resolve
 IP-CIDR,203.119.206.9/32,no-resolve
 DOMAIN-SUFFIX,hilo.bilibili.com
+DOMAIN-SUFFIX,app-ads-services.com
+DOMAIN-SUFFIX,zztfly.com

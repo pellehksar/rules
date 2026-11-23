@@ -153,5 +153,8 @@ IP-ASN,134420,no-resolve
 DOMAIN-SUFFIX,dns.weixin.qq.com.cn
 DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,short.weixin.qq.com
+DOMAIN-SUFFIX,umid.daily.alibaba.net
+DOMAIN-SUFFIX,mobilegw.stable.alipay.net
+
 
 

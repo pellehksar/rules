@@ -133,7 +133,7 @@ DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,12371.cn
 DOMAIN-SUFFIX,12377.cn
 DOMAIN-SUFFIX,cctvpic.com
-DOMAIN-SUFFIX.conac.cn
+DOMAIN-SUFFIX,conac.cn
 DOMAIN-SUFFIX,ta.trs.cn
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-KEYWORD,getui
@@ -155,6 +155,7 @@ DOMAIN-SUFFIX,dns.weixin.qq.com
 DOMAIN-SUFFIX,short.weixin.qq.com
 DOMAIN-SUFFIX,umid.daily.alibaba.net
 DOMAIN-SUFFIX,mobilegw.stable.alipay.net
+
 
 
 
